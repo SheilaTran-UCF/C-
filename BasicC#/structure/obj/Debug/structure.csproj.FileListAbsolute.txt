@@ -1,0 +1,18 @@
+C:\Users\administrator\Desktop\BasicC#\structure\bin\Debug\structure.exe.config
+C:\Users\administrator\Desktop\BasicC#\structure\bin\Debug\structure.exe
+C:\Users\administrator\Desktop\BasicC#\structure\bin\Debug\structure.pdb
+C:\Users\administrator\Desktop\BasicC#\structure\obj\Debug\structure.csprojResolveAssemblyReference.cache
+C:\Users\administrator\Desktop\BasicC#\structure\obj\Debug\structure.exe
+C:\Users\administrator\Desktop\BasicC#\structure\obj\Debug\structure.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\structure\bin\Debug\structure.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\structure\bin\Debug\structure.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\structure\bin\Debug\structure.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\structure\obj\Debug\structure.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\structure\obj\Debug\structure.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\structure\obj\Debug\structure.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\structure\bin\Debug\structure.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\structure\bin\Debug\structure.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\structure\bin\Debug\structure.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\structure\obj\Debug\structure.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\structure\obj\Debug\structure.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\structure\obj\Debug\structure.pdb

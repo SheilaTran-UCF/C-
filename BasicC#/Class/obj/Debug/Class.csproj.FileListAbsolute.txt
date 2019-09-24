@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Class\bin\Debug\Class.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Class\bin\Debug\Class.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Class\bin\Debug\Class.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Class\obj\Debug\Class.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Class\obj\Debug\Class.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Class\bin\Debug\Class.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Class\bin\Debug\Class.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Class\bin\Debug\Class.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Class\obj\Debug\Class.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Class\obj\Debug\Class.pdb

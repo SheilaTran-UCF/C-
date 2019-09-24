@@ -1,0 +1,20 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.deps.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.runtimeconfig.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.runtimeconfig.dev.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.dll
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.AssemblyInfoInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.AssemblyInfo.cs
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.dll
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.deps.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.runtimeconfig.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.runtimeconfig.dev.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.dll
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\bin\Debug\netcoreapp2.1\PartialClass.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.AssemblyInfoInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.AssemblyInfo.cs
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.dll
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PartialClass\obj\Debug\netcoreapp2.1\PartialClass.pdb

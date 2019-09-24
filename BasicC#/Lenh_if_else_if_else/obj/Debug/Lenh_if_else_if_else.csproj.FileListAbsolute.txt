@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_if_else_if_else\bin\Debug\Lenh_if_else_if_else.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_if_else_if_else\bin\Debug\Lenh_if_else_if_else.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_if_else_if_else\bin\Debug\Lenh_if_else_if_else.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_if_else_if_else\obj\Debug\Lenh_if_else_if_else.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_if_else_if_else\obj\Debug\Lenh_if_else_if_else.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_if_else_if_else\obj\Debug\Lenh_if_else_if_else.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_if_else_if_else\bin\Debug\Lenh_if_else_if_else.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_if_else_if_else\bin\Debug\Lenh_if_else_if_else.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_if_else_if_else\bin\Debug\Lenh_if_else_if_else.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_if_else_if_else\obj\Debug\Lenh_if_else_if_else.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_if_else_if_else\obj\Debug\Lenh_if_else_if_else.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_if_else_if_else\obj\Debug\Lenh_if_else_if_else.pdb

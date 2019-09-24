@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Interface\bin\Debug\Interface.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Interface\bin\Debug\Interface.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Interface\bin\Debug\Interface.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Interface\obj\Debug\Interface.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Interface\obj\Debug\Interface.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Interface\bin\Debug\Interface.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Interface\bin\Debug\Interface.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Interface\bin\Debug\Interface.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Interface\obj\Debug\Interface.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Interface\obj\Debug\Interface.pdb

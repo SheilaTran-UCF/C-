@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Constructor\bin\Debug\Constructor.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Constructor\bin\Debug\Constructor.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Constructor\obj\Debug\Constructor.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Constructor\obj\Debug\Constructor.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Constructor\bin\Debug\Constructor.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Constructor\bin\Debug\Constructor.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Constructor\obj\Debug\Constructor.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Constructor\obj\Debug\Constructor.pdb

@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Nap_Chong_Toan_Tu\bin\Debug\Nap_Chong_Toan_Tu.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Nap_Chong_Toan_Tu\bin\Debug\Nap_Chong_Toan_Tu.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Nap_Chong_Toan_Tu\bin\Debug\Nap_Chong_Toan_Tu.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Nap_Chong_Toan_Tu\obj\Debug\Nap_Chong_Toan_Tu.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Nap_Chong_Toan_Tu\obj\Debug\Nap_Chong_Toan_Tu.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Nap_Chong_Toan_Tu\obj\Debug\Nap_Chong_Toan_Tu.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Nap_Chong_Toan_Tu\bin\Debug\Nap_Chong_Toan_Tu.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Nap_Chong_Toan_Tu\bin\Debug\Nap_Chong_Toan_Tu.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Nap_Chong_Toan_Tu\bin\Debug\Nap_Chong_Toan_Tu.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Nap_Chong_Toan_Tu\obj\Debug\Nap_Chong_Toan_Tu.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Nap_Chong_Toan_Tu\obj\Debug\Nap_Chong_Toan_Tu.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Nap_Chong_Toan_Tu\obj\Debug\Nap_Chong_Toan_Tu.pdb

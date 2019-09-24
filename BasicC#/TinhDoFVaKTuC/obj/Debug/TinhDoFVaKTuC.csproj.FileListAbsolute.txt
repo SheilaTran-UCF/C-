@@ -1,0 +1,13 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhDoFVaKTuC\bin\Debug\TinhDoFVaKTuC.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhDoFVaKTuC\bin\Debug\TinhDoFVaKTuC.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhDoFVaKTuC\bin\Debug\TinhDoFVaKTuC.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhDoFVaKTuC\obj\Debug\TinhDoFVaKTuC.csprojAssemblyReference.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhDoFVaKTuC\obj\Debug\TinhDoFVaKTuC.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhDoFVaKTuC\obj\Debug\TinhDoFVaKTuC.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhDoFVaKTuC\obj\Debug\TinhDoFVaKTuC.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhDoFVaKTuC\bin\Debug\TinhDoFVaKTuC.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhDoFVaKTuC\bin\Debug\TinhDoFVaKTuC.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhDoFVaKTuC\bin\Debug\TinhDoFVaKTuC.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhDoFVaKTuC\obj\Debug\TinhDoFVaKTuC.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhDoFVaKTuC\obj\Debug\TinhDoFVaKTuC.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhDoFVaKTuC\obj\Debug\TinhDoFVaKTuC.pdb

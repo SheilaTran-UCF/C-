@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_DaChieu\bin\Debug\Mang_DaChieu.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_DaChieu\bin\Debug\Mang_DaChieu.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_DaChieu\bin\Debug\Mang_DaChieu.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_DaChieu\obj\Debug\Mang_DaChieu.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_DaChieu\obj\Debug\Mang_DaChieu.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_DaChieu\obj\Debug\Mang_DaChieu.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_DaChieu\bin\Debug\Mang_DaChieu.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_DaChieu\bin\Debug\Mang_DaChieu.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_DaChieu\bin\Debug\Mang_DaChieu.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_DaChieu\obj\Debug\Mang_DaChieu.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_DaChieu\obj\Debug\Mang_DaChieu.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_DaChieu\obj\Debug\Mang_DaChieu.pdb

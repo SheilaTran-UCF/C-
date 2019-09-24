@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Regular_Expression\bin\Debug\Regular_Expression.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Regular_Expression\bin\Debug\Regular_Expression.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Regular_Expression\bin\Debug\Regular_Expression.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Regular_Expression\obj\Debug\Regular_Expression.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Regular_Expression\obj\Debug\Regular_Expression.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Regular_Expression\obj\Debug\Regular_Expression.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Regular_Expression\bin\Debug\Regular_Expression.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Regular_Expression\bin\Debug\Regular_Expression.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Regular_Expression\bin\Debug\Regular_Expression.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Regular_Expression\obj\Debug\Regular_Expression.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Regular_Expression\obj\Debug\Regular_Expression.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Regular_Expression\obj\Debug\Regular_Expression.pdb

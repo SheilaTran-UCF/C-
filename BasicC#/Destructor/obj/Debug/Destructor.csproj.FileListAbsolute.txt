@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Destructor\bin\Debug\Destructor.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Destructor\bin\Debug\Destructor.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Destructor\obj\Debug\Destructor.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Destructor\obj\Debug\Destructor.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Destructor\bin\Debug\Destructor.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Destructor\bin\Debug\Destructor.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Destructor\obj\Debug\Destructor.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Destructor\obj\Debug\Destructor.pdb

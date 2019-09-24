@@ -1,0 +1,22 @@
+C:\Users\Bill\source\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Bill\source\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Bill\source\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Bill\source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Bill\source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Bill\source\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\administrator\Desktop\BasicC#\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\administrator\Desktop\BasicC#\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\administrator\Desktop\BasicC#\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\administrator\Desktop\BasicC#\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\administrator\Desktop\BasicC#\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\administrator\Desktop\BasicC#\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\HelloWorld\obj\Debug\HelloWorld.pdb

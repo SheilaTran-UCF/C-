@@ -1,0 +1,16 @@
+C:\Users\Bill\source\HelloWorld\EpKieu\bin\Debug\EpKieu.exe.config
+C:\Users\Bill\source\HelloWorld\EpKieu\bin\Debug\EpKieu.exe
+C:\Users\Bill\source\HelloWorld\EpKieu\bin\Debug\EpKieu.pdb
+C:\Users\Bill\source\HelloWorld\EpKieu\obj\Debug\EpKieu.csprojAssemblyReference.cache
+C:\Users\Bill\source\HelloWorld\EpKieu\obj\Debug\EpKieu.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\HelloWorld\EpKieu\obj\Debug\EpKieu.exe
+C:\Users\Bill\source\HelloWorld\EpKieu\obj\Debug\EpKieu.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\EpKieu\bin\Debug\EpKieu.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\EpKieu\bin\Debug\EpKieu.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\EpKieu\bin\Debug\EpKieu.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\EpKieu\obj\Debug\EpKieu.csprojAssemblyReference.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\EpKieu\obj\Debug\EpKieu.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\EpKieu\obj\Debug\EpKieu.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\EpKieu\obj\Debug\EpKieu.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\EpKieu\obj\Debug\EpKieu.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\EpKieu\obj\Debug\EpKieu.pdb

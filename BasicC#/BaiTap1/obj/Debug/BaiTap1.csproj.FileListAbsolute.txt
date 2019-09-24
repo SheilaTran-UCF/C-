@@ -1,0 +1,16 @@
+C:\Users\Bill\source\HelloWorld\BaiTap1\bin\Debug\BaiTap1.exe.config
+C:\Users\Bill\source\HelloWorld\BaiTap1\bin\Debug\BaiTap1.exe
+C:\Users\Bill\source\HelloWorld\BaiTap1\bin\Debug\BaiTap1.pdb
+C:\Users\Bill\source\HelloWorld\BaiTap1\obj\Debug\BaiTap1.csprojAssemblyReference.cache
+C:\Users\Bill\source\HelloWorld\BaiTap1\obj\Debug\BaiTap1.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\HelloWorld\BaiTap1\obj\Debug\BaiTap1.exe
+C:\Users\Bill\source\HelloWorld\BaiTap1\obj\Debug\BaiTap1.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\BaiTap1\bin\Debug\BaiTap1.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\BaiTap1\bin\Debug\BaiTap1.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\BaiTap1\bin\Debug\BaiTap1.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\BaiTap1\obj\Debug\BaiTap1.csprojAssemblyReference.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\BaiTap1\obj\Debug\BaiTap1.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\BaiTap1\obj\Debug\BaiTap1.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\BaiTap1\obj\Debug\BaiTap1.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\BaiTap1\obj\Debug\BaiTap1.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\BaiTap1\obj\Debug\BaiTap1.pdb

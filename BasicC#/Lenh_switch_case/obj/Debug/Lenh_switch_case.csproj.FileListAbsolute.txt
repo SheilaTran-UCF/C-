@@ -1,0 +1,18 @@
+C:\Users\administrator\Desktop\BasicC#\Lenh_switch_case\bin\Debug\Lenh_switch_case.exe.config
+C:\Users\administrator\Desktop\BasicC#\Lenh_switch_case\bin\Debug\Lenh_switch_case.exe
+C:\Users\administrator\Desktop\BasicC#\Lenh_switch_case\bin\Debug\Lenh_switch_case.pdb
+C:\Users\administrator\Desktop\BasicC#\Lenh_switch_case\obj\Debug\Lenh_switch_case.csprojResolveAssemblyReference.cache
+C:\Users\administrator\Desktop\BasicC#\Lenh_switch_case\obj\Debug\Lenh_switch_case.exe
+C:\Users\administrator\Desktop\BasicC#\Lenh_switch_case\obj\Debug\Lenh_switch_case.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_switch_case\bin\Debug\Lenh_switch_case.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_switch_case\bin\Debug\Lenh_switch_case.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_switch_case\bin\Debug\Lenh_switch_case.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_switch_case\obj\Debug\Lenh_switch_case.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_switch_case\obj\Debug\Lenh_switch_case.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_switch_case\obj\Debug\Lenh_switch_case.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_switch_case\bin\Debug\Lenh_switch_case.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_switch_case\bin\Debug\Lenh_switch_case.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_switch_case\bin\Debug\Lenh_switch_case.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_switch_case\obj\Debug\Lenh_switch_case.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_switch_case\obj\Debug\Lenh_switch_case.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_switch_case\obj\Debug\Lenh_switch_case.pdb

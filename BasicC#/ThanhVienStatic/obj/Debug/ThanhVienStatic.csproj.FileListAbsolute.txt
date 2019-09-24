@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\ThanhVienStatic\bin\Debug\ThanhVienStatic.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\ThanhVienStatic\bin\Debug\ThanhVienStatic.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\ThanhVienStatic\bin\Debug\ThanhVienStatic.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\ThanhVienStatic\obj\Debug\ThanhVienStatic.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\ThanhVienStatic\obj\Debug\ThanhVienStatic.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\ThanhVienStatic\obj\Debug\ThanhVienStatic.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\ThanhVienStatic\bin\Debug\ThanhVienStatic.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\ThanhVienStatic\bin\Debug\ThanhVienStatic.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\ThanhVienStatic\bin\Debug\ThanhVienStatic.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\ThanhVienStatic\obj\Debug\ThanhVienStatic.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\ThanhVienStatic\obj\Debug\ThanhVienStatic.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\ThanhVienStatic\obj\Debug\ThanhVienStatic.pdb

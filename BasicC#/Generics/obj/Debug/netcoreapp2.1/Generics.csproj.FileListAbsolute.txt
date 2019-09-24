@@ -1,0 +1,21 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.deps.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.dev.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.dll
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfoInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfo.cs
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.dll
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.csprojAssemblyReference.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.deps.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.dev.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.dll
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\bin\Debug\netcoreapp2.1\Generics.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfoInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfo.cs
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.dll
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Generics\obj\Debug\netcoreapp2.1\Generics.pdb

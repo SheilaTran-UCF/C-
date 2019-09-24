@@ -1,0 +1,13 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HangSo\bin\Debug\HangSo.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HangSo\bin\Debug\HangSo.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HangSo\bin\Debug\HangSo.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HangSo\obj\Debug\HangSo.csprojAssemblyReference.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HangSo\obj\Debug\HangSo.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HangSo\obj\Debug\HangSo.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\HangSo\obj\Debug\HangSo.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\HangSo\bin\Debug\HangSo.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\HangSo\bin\Debug\HangSo.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\HangSo\bin\Debug\HangSo.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\HangSo\obj\Debug\HangSo.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\HangSo\obj\Debug\HangSo.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\HangSo\obj\Debug\HangSo.pdb

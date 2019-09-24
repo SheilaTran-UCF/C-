@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_lenh_switch\bin\Debug\Long_cac_lenh_switch.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_lenh_switch\bin\Debug\Long_cac_lenh_switch.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_lenh_switch\bin\Debug\Long_cac_lenh_switch.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_lenh_switch\obj\Debug\Long_cac_lenh_switch.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_lenh_switch\obj\Debug\Long_cac_lenh_switch.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_lenh_switch\obj\Debug\Long_cac_lenh_switch.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_lenh_switch\bin\Debug\Long_cac_lenh_switch.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_lenh_switch\bin\Debug\Long_cac_lenh_switch.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_lenh_switch\bin\Debug\Long_cac_lenh_switch.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_lenh_switch\obj\Debug\Long_cac_lenh_switch.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_lenh_switch\obj\Debug\Long_cac_lenh_switch.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_lenh_switch\obj\Debug\Long_cac_lenh_switch.pdb

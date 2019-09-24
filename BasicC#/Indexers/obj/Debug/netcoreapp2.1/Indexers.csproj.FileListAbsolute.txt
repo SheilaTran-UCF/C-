@@ -1,0 +1,21 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.deps.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.runtimeconfig.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.runtimeconfig.dev.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.dll
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.csprojAssemblyReference.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.AssemblyInfoInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.AssemblyInfo.cs
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.dll
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.deps.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.runtimeconfig.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.runtimeconfig.dev.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.dll
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\bin\Debug\netcoreapp2.1\Indexers.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.AssemblyInfoInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.AssemblyInfo.cs
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.dll
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Indexers\obj\Debug\netcoreapp2.1\Indexers.pdb

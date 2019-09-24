@@ -1,0 +1,13 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhGiaTriTrungBinh\bin\Debug\TinhGiaTriTrungBinh.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhGiaTriTrungBinh\bin\Debug\TinhGiaTriTrungBinh.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhGiaTriTrungBinh\bin\Debug\TinhGiaTriTrungBinh.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhGiaTriTrungBinh\obj\Debug\TinhGiaTriTrungBinh.csprojAssemblyReference.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhGiaTriTrungBinh\obj\Debug\TinhGiaTriTrungBinh.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhGiaTriTrungBinh\obj\Debug\TinhGiaTriTrungBinh.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\TinhGiaTriTrungBinh\obj\Debug\TinhGiaTriTrungBinh.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhGiaTriTrungBinh\bin\Debug\TinhGiaTriTrungBinh.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhGiaTriTrungBinh\bin\Debug\TinhGiaTriTrungBinh.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhGiaTriTrungBinh\bin\Debug\TinhGiaTriTrungBinh.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhGiaTriTrungBinh\obj\Debug\TinhGiaTriTrungBinh.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhGiaTriTrungBinh\obj\Debug\TinhGiaTriTrungBinh.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\TinhGiaTriTrungBinh\obj\Debug\TinhGiaTriTrungBinh.pdb

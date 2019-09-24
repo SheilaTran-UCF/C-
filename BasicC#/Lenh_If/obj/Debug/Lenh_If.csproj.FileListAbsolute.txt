@@ -1,0 +1,17 @@
+C:\Users\administrator\Desktop\BasicC#\Lenh_If\bin\Debug\Lenh_If.exe.config
+C:\Users\administrator\Desktop\BasicC#\Lenh_If\bin\Debug\Lenh_If.exe
+C:\Users\administrator\Desktop\BasicC#\Lenh_If\bin\Debug\Lenh_If.pdb
+C:\Users\administrator\Desktop\BasicC#\Lenh_If\obj\Debug\Lenh_If.exe
+C:\Users\administrator\Desktop\BasicC#\Lenh_If\obj\Debug\Lenh_If.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_If\bin\Debug\Lenh_If.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_If\bin\Debug\Lenh_If.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_If\bin\Debug\Lenh_If.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_If\obj\Debug\Lenh_If.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_If\obj\Debug\Lenh_If.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Lenh_If\obj\Debug\Lenh_If.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_If\bin\Debug\Lenh_If.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_If\bin\Debug\Lenh_If.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_If\bin\Debug\Lenh_If.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_If\obj\Debug\Lenh_If.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_If\obj\Debug\Lenh_If.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Lenh_If\obj\Debug\Lenh_If.pdb

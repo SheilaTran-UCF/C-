@@ -1,0 +1,18 @@
+C:\Users\administrator\Desktop\BasicC#\VongLap_for\bin\Debug\VongLap_for.exe.config
+C:\Users\administrator\Desktop\BasicC#\VongLap_for\bin\Debug\VongLap_for.exe
+C:\Users\administrator\Desktop\BasicC#\VongLap_for\bin\Debug\VongLap_for.pdb
+C:\Users\administrator\Desktop\BasicC#\VongLap_for\obj\Debug\VongLap_for.exe
+C:\Users\administrator\Desktop\BasicC#\VongLap_for\obj\Debug\VongLap_for.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLap_for\bin\Debug\VongLap_for.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLap_for\bin\Debug\VongLap_for.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLap_for\bin\Debug\VongLap_for.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLap_for\obj\Debug\VongLap_for.csprojAssemblyReference.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLap_for\obj\Debug\VongLap_for.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLap_for\obj\Debug\VongLap_for.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLap_for\obj\Debug\VongLap_for.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLap_for\bin\Debug\VongLap_for.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLap_for\bin\Debug\VongLap_for.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLap_for\bin\Debug\VongLap_for.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLap_for\obj\Debug\VongLap_for.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLap_for\obj\Debug\VongLap_for.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLap_for\obj\Debug\VongLap_for.pdb

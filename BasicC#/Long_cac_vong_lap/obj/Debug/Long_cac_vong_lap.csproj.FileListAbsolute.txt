@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_vong_lap\bin\Debug\Long_cac_vong_lap.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_vong_lap\bin\Debug\Long_cac_vong_lap.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_vong_lap\bin\Debug\Long_cac_vong_lap.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_vong_lap\obj\Debug\Long_cac_vong_lap.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_vong_lap\obj\Debug\Long_cac_vong_lap.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_cac_vong_lap\obj\Debug\Long_cac_vong_lap.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_vong_lap\bin\Debug\Long_cac_vong_lap.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_vong_lap\bin\Debug\Long_cac_vong_lap.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_vong_lap\bin\Debug\Long_cac_vong_lap.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_vong_lap\obj\Debug\Long_cac_vong_lap.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_vong_lap\obj\Debug\Long_cac_vong_lap.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_cac_vong_lap\obj\Debug\Long_cac_vong_lap.pdb

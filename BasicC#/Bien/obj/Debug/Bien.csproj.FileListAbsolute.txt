@@ -1,0 +1,7 @@
+C:\Users\Bill\source\HelloWorld\Bien\bin\Debug\Bien.exe.config
+C:\Users\Bill\source\HelloWorld\Bien\bin\Debug\Bien.exe
+C:\Users\Bill\source\HelloWorld\Bien\bin\Debug\Bien.pdb
+C:\Users\Bill\source\HelloWorld\Bien\obj\Debug\Bien.csprojAssemblyReference.cache
+C:\Users\Bill\source\HelloWorld\Bien\obj\Debug\Bien.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\HelloWorld\Bien\obj\Debug\Bien.exe
+C:\Users\Bill\source\HelloWorld\Bien\obj\Debug\Bien.pdb

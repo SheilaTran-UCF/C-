@@ -1,0 +1,17 @@
+C:\Users\administrator\Desktop\BasicC#\VongLapWhile\bin\Debug\VongLapWhile.exe.config
+C:\Users\administrator\Desktop\BasicC#\VongLapWhile\bin\Debug\VongLapWhile.exe
+C:\Users\administrator\Desktop\BasicC#\VongLapWhile\bin\Debug\VongLapWhile.pdb
+C:\Users\administrator\Desktop\BasicC#\VongLapWhile\obj\Debug\VongLapWhile.exe
+C:\Users\administrator\Desktop\BasicC#\VongLapWhile\obj\Debug\VongLapWhile.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLapWhile\bin\Debug\VongLapWhile.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLapWhile\bin\Debug\VongLapWhile.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLapWhile\bin\Debug\VongLapWhile.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLapWhile\obj\Debug\VongLap_while.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLapWhile\obj\Debug\VongLapWhile.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\VongLapWhile\obj\Debug\VongLapWhile.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLapWhile\bin\Debug\VongLapWhile.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLapWhile\bin\Debug\VongLapWhile.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLapWhile\bin\Debug\VongLapWhile.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLapWhile\obj\Debug\VongLap_while.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLapWhile\obj\Debug\VongLapWhile.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\VongLapWhile\obj\Debug\VongLapWhile.pdb

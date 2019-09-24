@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Xu_Ly_Ngoai_Le\bin\Debug\Xu_Ly_Ngoai_Le.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Xu_Ly_Ngoai_Le\bin\Debug\Xu_Ly_Ngoai_Le.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Xu_Ly_Ngoai_Le\bin\Debug\Xu_Ly_Ngoai_Le.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Xu_Ly_Ngoai_Le\obj\Debug\Xu_Ly_Ngoai_Le.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Xu_Ly_Ngoai_Le\obj\Debug\Xu_Ly_Ngoai_Le.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Xu_Ly_Ngoai_Le\obj\Debug\Xu_Ly_Ngoai_Le.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Xu_Ly_Ngoai_Le\bin\Debug\Xu_Ly_Ngoai_Le.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Xu_Ly_Ngoai_Le\bin\Debug\Xu_Ly_Ngoai_Le.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Xu_Ly_Ngoai_Le\bin\Debug\Xu_Ly_Ngoai_Le.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Xu_Ly_Ngoai_Le\obj\Debug\Xu_Ly_Ngoai_Le.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Xu_Ly_Ngoai_Le\obj\Debug\Xu_Ly_Ngoai_Le.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Xu_Ly_Ngoai_Le\obj\Debug\Xu_Ly_Ngoai_Le.pdb

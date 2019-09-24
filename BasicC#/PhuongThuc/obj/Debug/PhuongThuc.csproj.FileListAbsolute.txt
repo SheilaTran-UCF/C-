@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PhuongThuc\bin\Debug\PhuongThuc.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PhuongThuc\bin\Debug\PhuongThuc.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PhuongThuc\bin\Debug\PhuongThuc.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PhuongThuc\obj\Debug\PhuongThuc.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PhuongThuc\obj\Debug\PhuongThuc.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\PhuongThuc\obj\Debug\PhuongThuc.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PhuongThuc\bin\Debug\PhuongThuc.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PhuongThuc\bin\Debug\PhuongThuc.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PhuongThuc\bin\Debug\PhuongThuc.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PhuongThuc\obj\Debug\PhuongThuc.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PhuongThuc\obj\Debug\PhuongThuc.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\PhuongThuc\obj\Debug\PhuongThuc.pdb

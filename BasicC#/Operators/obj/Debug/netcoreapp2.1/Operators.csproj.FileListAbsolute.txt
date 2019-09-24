@@ -1,0 +1,22 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.deps.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.runtimeconfig.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.runtimeconfig.dev.json
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.dll
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.csprojAssemblyReference.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfoInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfo.cs
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.dll
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.deps.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.runtimeconfig.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.runtimeconfig.dev.json
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.dll
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\bin\Debug\netcoreapp2.1\Operators.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.csprojAssemblyReference.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfoInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.AssemblyInfo.cs
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.dll
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Operators\obj\Debug\netcoreapp2.1\Operators.pdb

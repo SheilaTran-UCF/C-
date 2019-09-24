@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_LopCoBan\bin\Debug\Mang_LopCoBan.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_LopCoBan\bin\Debug\Mang_LopCoBan.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_LopCoBan\bin\Debug\Mang_LopCoBan.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_LopCoBan\obj\Debug\Mang_LopCoBan.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_LopCoBan\obj\Debug\Mang_LopCoBan.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Mang_LopCoBan\obj\Debug\Mang_LopCoBan.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_LopCoBan\bin\Debug\Mang_LopCoBan.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_LopCoBan\bin\Debug\Mang_LopCoBan.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_LopCoBan\bin\Debug\Mang_LopCoBan.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_LopCoBan\obj\Debug\Mang_LopCoBan.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_LopCoBan\obj\Debug\Mang_LopCoBan.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Mang_LopCoBan\obj\Debug\Mang_LopCoBan.pdb

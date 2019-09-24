@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_if\bin\Debug\Long_if.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_if\bin\Debug\Long_if.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_if\bin\Debug\Long_if.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_if\obj\Debug\Long_if.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_if\obj\Debug\Long_if.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Long_if\obj\Debug\Long_if.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_if\bin\Debug\Long_if.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_if\bin\Debug\Long_if.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_if\bin\Debug\Long_if.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_if\obj\Debug\Long_if.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_if\obj\Debug\Long_if.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Long_if\obj\Debug\Long_if.pdb

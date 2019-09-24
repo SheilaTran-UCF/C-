@@ -1,0 +1,12 @@
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Chi_Thi_Tien_Xu_Ly\bin\Debug\Chi_Thi_Tien_Xu_Ly.exe.config
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Chi_Thi_Tien_Xu_Ly\bin\Debug\Chi_Thi_Tien_Xu_Ly.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Chi_Thi_Tien_Xu_Ly\bin\Debug\Chi_Thi_Tien_Xu_Ly.pdb
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Chi_Thi_Tien_Xu_Ly\obj\Debug\Chi_Thi_Tien_Xu_Ly.csproj.CoreCompileInputs.cache
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Chi_Thi_Tien_Xu_Ly\obj\Debug\Chi_Thi_Tien_Xu_Ly.exe
+C:\Users\votha\Google Drive\Di lam\Học Với Chuyên Gia\Tài Liệu\C#\Bài Tập\BasicC#\Chi_Thi_Tien_Xu_Ly\obj\Debug\Chi_Thi_Tien_Xu_Ly.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Chi_Thi_Tien_Xu_Ly\bin\Debug\Chi_Thi_Tien_Xu_Ly.exe.config
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Chi_Thi_Tien_Xu_Ly\bin\Debug\Chi_Thi_Tien_Xu_Ly.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Chi_Thi_Tien_Xu_Ly\bin\Debug\Chi_Thi_Tien_Xu_Ly.pdb
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Chi_Thi_Tien_Xu_Ly\obj\Debug\Chi_Thi_Tien_Xu_Ly.csproj.CoreCompileInputs.cache
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Chi_Thi_Tien_Xu_Ly\obj\Debug\Chi_Thi_Tien_Xu_Ly.exe
+C:\Users\minhn\Downloads\BasicC#-20190920T152857Z-001\BasicC#\Chi_Thi_Tien_Xu_Ly\obj\Debug\Chi_Thi_Tien_Xu_Ly.pdb
